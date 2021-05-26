@@ -1,0 +1,7 @@
+,timestamp,type,amount,from,to,_source,date,transaction,amounts,date_readable,euro,cents
+0,Oct 1 2019,remove,99.2,198,182,/Users/jagan/interview_assigment-1/input/bank1.csv,,,,,,
+1,Oct 2 2019,add,2000.1,188,198,/Users/jagan/interview_assigment-1/input/bank1.csv,,,,,,
+0,,,,198,182,/Users/jagan/interview_assigment-1/input/bank2.csv,03-10-2019,remove,99.4,,,
+1,,,,188,198,/Users/jagan/interview_assigment-1/input/bank2.csv,04-10-2019,add,2123.5,,,
+0,,remove,,198,182,/Users/jagan/interview_assigment-1/input/bank3.csv,,,,5 Oct 2019,5.0,7.0
+1,,add,,188,198,/Users/jagan/interview_assigment-1/input/bank3.csv,,,,6 Oct 2019,1060.0,8.0
